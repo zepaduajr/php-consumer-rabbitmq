@@ -1,0 +1,7 @@
+/vendor
+/.idea
+/.vscode
+.DS_Store
+/.phpintel
+.env
+.phpunit.result.cache

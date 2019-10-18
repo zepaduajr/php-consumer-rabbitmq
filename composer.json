@@ -1,0 +1,13 @@
+{
+    "name": "jgpadua/php-consumer-rabbitmq",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.10",
+        "vlucas/phpdotenv": "^3.6"
+    },
+    "authors": [
+        {
+            "name": "Jose Guilherme Padua Junior",
+            "email": "zepaduajr@gmail.com"
+        }
+    ]
+}
